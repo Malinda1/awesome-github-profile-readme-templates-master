@@ -10,3 +10,7 @@ A collection of GitHub profile README's examples.
 Feel free to add your or someone else's GitHub profile README file.
 
 Don't forget to hit the :star: if you like this repo.
+
+You can make your Github prifile more than look like this.
+
+![My Image](Screenshot 2024-11-27 at 19.54.49.png)
