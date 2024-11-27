@@ -13,4 +13,4 @@ Don't forget to hit the :star: if you like this repo.
 
 You can make your Github prifile more than look like this.
 
-![Alt Text](assets/Screenshot_2024-11-27.png)
+![Alt Text](Screenshot_2024-11-27.png)
