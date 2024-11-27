@@ -13,4 +13,4 @@ Don't forget to hit the :star: if you like this repo.
 
 You can make your Github prifile more than look like this.
 
-![Alt Text](Screenshot_2024-11-27.png)
+<img width="1000" alt="Screenshot 2024-11-27 at 19 54 49" src="https://github.com/user-attachments/assets/5ad1a7f9-db41-4ca6-83c8-51bde6bc00c6">
