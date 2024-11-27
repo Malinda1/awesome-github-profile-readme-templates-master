@@ -13,4 +13,4 @@ Don't forget to hit the :star: if you like this repo.
 
 You can make your Github prifile more than look like this.
 
-<img src="'/Volumes/KODAK/folder 01/projects/awesome-github-profile-readme-templates-master/Screenshot 2024-11-27 at 19.54.49.png'" alt="Alt text" width="300" height="300">
+![Alt Text](assets/Screenshot_2024-11-27.png)
